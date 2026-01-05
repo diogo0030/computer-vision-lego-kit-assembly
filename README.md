@@ -6,7 +6,7 @@ It aims to simulate a factory-like sorting system where LEGO pieces are identifi
 
 All processing is implemented using an **object-oriented programming (OOP)** approach to ensure modularity and scalability.
 
-### Grade: ??
+### Grade: 16,38
 ---
 
 ## Main Features
